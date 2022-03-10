@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reise-schiessen
-- 👀 I’m interested in Robotocs and automation.
+- 👀 I’m interested in Robotics and automation.
 - 🌱 I’m currently learning Java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @souhridm@gmail.com or https://www.instagram.com/_reise_schiessen_/
